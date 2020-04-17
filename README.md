@@ -3,6 +3,7 @@ Analiza danych o COVID-19 w ramach kursu Korona Science
 
 Jest to przejrzysty projekt pozwalający na szybką analizę obecnej sytuacji związanej z Koronawirusem na świecie jak i w Europie. Postanowiłam dokonać porównania przebiegu Koronawirusa w Polsce i w dowolnym innym dotkniętym tym problemem kraju na świecie. Zależało mi na głównie na przejrzystym i dobrze dopracowanym kodzie zamkniętym w funkcje czyniące go uniwersalnym pod względem wyboru Krajów do porównania, i aby to porównanie było jak najbardziej przejrzyste oraz dawało jasne i zrozumiałe wyniki. Uważam, że porównanie sytuacji w Polsce z pozostałymi krajami dotkniętymi COVID-19 pozwoli nakreślić skalę problemu, jak również umożliwi określenie pozycji Polski na tle pozostałych państw, które tak jak nasz Kraj zmagają się z Koronawirusem i starają się mu przeciwdziałać. 
 
+### Dane i przygotowanie
 Dane wykorzystane podczas analizy pochodzą z następujących źródeł:
 - Codziennie aktualizowane dane o [wykrytych przypadkach COVID-19](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
 - Codziennie aktualizowane dane o [przypadkach śmierci z powodu COVID-19](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv)
